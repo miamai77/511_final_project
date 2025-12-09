@@ -1,0 +1,86 @@
+State,FEMIN_AGREE,FEMIN_DISAGREE,METRO,IFMETRO_ID
+National,43,54,0,0
+Alabama,46,52,0,0
+Alaska,50,50,0,0
+Arizona,47,50,0,0
+Arkansas,48,48,0,0
+California,38,59,0,0
+Colorado,47,52,0,0
+Connecticut,39,58,0,0
+Delaware,41,52,0,0
+District of Columbia,22,77,0,0
+Florida,42,52,0,0
+Georgia,45,50,0,0
+Hawaii,40,59,0,0
+Idaho,48,50,0,0
+Illinois,37,59,0,0
+Indiana,45,51,0,0
+Iowa,47,49,0,0
+Kansas,49,50,0,0
+Kentucky,51,46,0,0
+Louisiana,54,45,0,0
+Maine,42,57,0,0
+Maryland,37,62,0,0
+Massachusetts,31,66,0,0
+Michigan,48,48,0,0
+Minnesota,33,61,0,0
+Mississippi,43,50,0,0
+Missouri,51,47,0,0
+Montana,42,54,0,0
+Nebraska,42,58,0,0
+Nevada,38,61,0,0
+New Hampshire,44,52,0,0
+New Jersey,40,58,0,0
+New Mexico,43,56,0,0
+New York,38,59,0,0
+North Carolina,44,53,0,0
+North Dakota,54,45,0,0
+Ohio,46,52,0,0
+Oklahoma,58,40,0,0
+Oregon,44,54,0,0
+Pennsylvania,53,44,0,0
+Rhode Island,37,63,0,0
+South Carolina,47,50,0,0
+South Dakota,52,46,0,0
+Tennessee,46,48,0,0
+Texas,45,52,0,0
+Utah,41,56,0,0
+Vermont,38,62,0,0
+Virginia,41,58,0,0
+Washington,29,67,0,0
+Wisconsin,40,59,0,0
+Wyoming,56,43,0,0
+"Atlanta-Sandy Springs-Roswell, G",43,52,1,12060
+"Baltimore-Columbia-Towson, MD",39,59,1,12580
+"Boston-Cambridge-Newton, MA-NH",27,70,1,14460
+"Charlotte-Concord-Gastonia, NC-S",30,64,1,16740
+"Chicago-Naperville-Elgin, IL-IN",32,63,1,16980
+"Cincinnati, OH-KY-IN",39,61,1,17140
+"Cleveland, OH",38,58,1,17460
+"Columbus, OH",51,49,1,18140
+"Dallas-Fort Worth-Arlington, TX",40,56,1,19100
+"Denver-Aurora-Centennial, CO",45,53,1,19740
+"Detroit-Warren-Dearborn, MI",46,52,1,19820
+"Houston-Pasadena-The Woodlands,",39,57,1,26420
+"Indianapolis-Carmel-Greenwood, I",58,39,1,26900
+"Kansas City, MO-KS",46,54,1,28140
+Las Vegas-Henderson-North Las Ve,38,60,1,29820
+"Los Angeles-Long Beach-Anaheim,",33,65,1,31080
+Miami-Fort Lauderdale-West Palm,37,58,1,33100
+"Milwaukee-Waukesha, WI",43,56,1,33340
+Minneapolis-St. Paul-Bloomington,29,67,1,33460
+"New York-Newark-Jersey City, NY-",35,61,1,35620
+"Orlando-Kissimmee-Sanford, FL",37,61,1,36740
+"Philadelphia-Camden-Wilmington,",42,56,1,37980
+"Phoenix-Mesa-Chandler, AZ",47,52,1,38060
+"Pittsburgh, PA",50,48,1,38300
+"Portland-Vancouver-Hillsboro, OR",35,58,1,38900
+Riverside-San Bernardino-Ontario,48,49,1,40140
+"Sacramento-Roseville-Folsom, CA",42,57,1,40900
+"St. Louis, MO-IL",44,55,1,41180
+"San Antonio-New Braunfels, TX",45,51,1,41700
+"San Diego-Chula Vista-Carlsbad,",43,56,1,41740
+"San Francisco-Oakland-Fremont, C",26,73,1,41860
+"Seattle-Tacoma-Bellevue, WA",27,70,1,42660
+"Tampa-St. Petersburg-Clearwater,",51,44,1,45300
+"Washington-Arlington-Alexandria,",35,64,1,47900

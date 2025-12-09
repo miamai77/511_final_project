@@ -1,0 +1,92 @@
+State,AGREE_VIOLENCE,DISAGREE_VIOLENCE,METRO,IFMETRO_ID
+National,17,79,0,0
+Alabama,26,70,0,0
+Alaska,25,74,0,0
+Arizona,17,78,0,0
+Arkansas,27,65,0,0
+California,16,80,0,0
+Colorado,22,77,0,0
+Connecticut,14,81,0,0
+Delaware,23,74,0,0
+District of Columbia,18,82,0,0
+Florida,15,79,0,0
+Georgia,18,77,0,0
+Hawaii,20,79,0,0
+Idaho,23,75,0,0
+Illinois,15,81,0,0
+Indiana,24,68,0,0
+Iowa,18,78,0,0
+Kansas,20,77,0,0
+Kentucky,18,77,0,0
+Louisiana,26,71,0,0
+Maine,23,74,0,0
+Maryland,11,87,0,0
+Massachusetts,13,86,0,0
+Michigan,16,80,0,0
+Minnesota,13,81,0,0
+Mississippi,20,77,0,0
+Missouri,20,77,0,0
+Montana,21,77,0,0
+Nebraska,16,81,0,0
+Nevada,19,75,0,0
+New Hampshire,15,82,0,0
+New Jersey,12,83,0,0
+New Mexico,21,77,0,0
+New York,17,80,0,0
+North Carolina,14,82,0,0
+North Dakota,25,74,0,0
+Ohio,17,78,0,0
+Oklahoma,28,68,0,0
+Oregon,15,78,0,0
+Pennsylvania,19,76,0,0
+Rhode Island,16,80,0,0
+South Carolina,21,74,0,0
+South Dakota,21,76,0,0
+Tennessee,20,74,0,0
+Texas,18,78,0,0
+Utah,12,84,0,0
+Vermont,16,84,0,0
+Virginia,14,83,0,0
+Washington,10,86,0,0
+West Virginia,35,57,0,0
+Wisconsin,15,82,0,0
+Wyoming,28,71,0,0
+"Atlanta-Sandy Springs-Roswell, G",16,78,1,12060
+"Austin-Round Rock-San Marcos, TX",13,85,1,12420
+"Baltimore-Columbia-Towson, MD",11,87,1,12580
+"Boston-Cambridge-Newton, MA-NH",11,88,1,14460
+"Charlotte-Concord-Gastonia, NC-S",8,86,1,16740
+"Chicago-Naperville-Elgin, IL-IN",14,82,1,16980
+"Cincinnati, OH-KY-IN",17,81,1,17140
+"Cleveland, OH",18,79,1,17460
+"Columbus, OH",12,85,1,18140
+"Dallas-Fort Worth-Arlington, TX",18,80,1,19100
+"Denver-Aurora-Centennial, CO",11,87,1,19740
+"Detroit-Warren-Dearborn, MI",19,78,1,19820
+"Houston-Pasadena-The Woodlands,",21,75,1,26420
+"Indianapolis-Carmel-Greenwood, I",20,67,1,26900
+"Kansas City, MO-KS",19,80,1,28140
+Las Vegas-Henderson-North Las Ve,20,76,1,29820
+"Los Angeles-Long Beach-Anaheim,",14,82,1,31080
+Miami-Fort Lauderdale-West Palm,12,83,1,33100
+"Milwaukee-Waukesha, WI",21,74,1,33340
+Minneapolis-St. Paul-Bloomington,12,85,1,33460
+Nashville-Davidson--Murfreesboro,12,79,1,34980
+"New York-Newark-Jersey City, NY-",15,80,1,35620
+"Orlando-Kissimmee-Sanford, FL",13,81,1,36740
+"Philadelphia-Camden-Wilmington,",14,82,1,37980
+"Phoenix-Mesa-Chandler, AZ",17,79,1,38060
+"Pittsburgh, PA",17,80,1,38300
+"Portland-Vancouver-Hillsboro, OR",16,76,1,38900
+"Richmond, VA",12,84,1,40060
+Riverside-San Bernardino-Ontario,21,72,1,40140
+"Sacramento-Roseville-Folsom, CA",21,78,1,40900
+"St. Louis, MO-IL",14,84,1,41180
+"San Antonio-New Braunfels, TX",14,81,1,41700
+"San Diego-Chula Vista-Carlsbad,",21,78,1,41740
+"San Francisco-Oakland-Fremont, C",11,85,1,41860
+"San Jose-Sunnyvale-Santa Clara,",10,87,1,41940
+"Seattle-Tacoma-Bellevue, WA",7,88,1,42660
+"Tampa-St. Petersburg-Clearwater,",18,78,1,45300
+Virginia Beach-Chesapeake-Norfolk,16,81,1,47260
+"Washington-Arlington-Alexandria,",9,88,1,47900

@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "GEO511_FinalProject"
+  title: "GEO511 Final Project - Mia Maines"
   navbar:
     left:
       - href: index.qmd
@@ -11,6 +12,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     includes:
         after_body: include/after_body.html
